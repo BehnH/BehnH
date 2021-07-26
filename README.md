@@ -14,6 +14,4 @@
 ***
 ### 📈 Take a look at some of my stats...
 <br>
-<p align="center">
-    <img src="scripts/GithubStats/generated/languages.svg">
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaitroseDev&count_private=true&theme=radical&show_icons=true" />
