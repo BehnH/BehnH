@@ -15,7 +15,7 @@
         "Rust",
     ],
     contact: {
-        email: "hello(at)behn.cc",
+        email: "hello(at)behn.dev",
         keybase: "@forgetfully"
     }
 }
