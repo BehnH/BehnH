@@ -3,13 +3,14 @@
     name: "Behn",
     occupation: "Technical Support Engineer",
     languages: [
+        "Go",
         "Javascript",
-        "Typescript",
-        "Go"
+        "Typescript"
     ],
     tools: [
-        "Visual Studio Code",
         "GoLand",
+        "WebStorm",
+        "Fleet"
     ],
     learning: [
         "Rust",
