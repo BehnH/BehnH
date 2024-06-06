@@ -1,10 +1,9 @@
 ```js
 {
     name: "Behn",
-    occupation: "Technical Support Engineer",
+    occupation: "Software Engineer",
     languages: [
         "Go",
-        "Javascript",
         "Typescript"
     ],
     tools: [
